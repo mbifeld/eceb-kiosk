@@ -6,6 +6,7 @@ This repo will contain the web app that will be installed on two touch-screen en
 footprint both on-campus and at home.
 
 An on-going Figma prototype can be found [here](https://www.figma.com/file/RQzyJ7jlya5WCfaMxiasQd/ECEB-Kiosk-Prototype?node-id=0%3A1)
+
 Project estimated completion time: December 2020
 
 ## About SIGCHI
