@@ -25,6 +25,17 @@ export default {
 
 <style scoped>
 
+  html {
+    overflow: hidden;
+    height: 100%;
+  }
+
+  body {
+    overflow: hidden;
+    height: 100%;
+    background: orange !important;
+  }
+
   .slide-leave-active,
   .slide-enter-active {
     transition: 0.25s;

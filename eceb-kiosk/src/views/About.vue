@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid class="about page">
+  <v-container fluid class="about-page">
     <v-container fluid id="about-title">
       About Slide
     </v-container>
@@ -17,6 +17,11 @@ export default {
 </script>
 
 <style scoped>
+
+  .about-page {
+    background: #13294B;
+    height: 100%;
+  }
 
   #about-title {
     position: absolute;
